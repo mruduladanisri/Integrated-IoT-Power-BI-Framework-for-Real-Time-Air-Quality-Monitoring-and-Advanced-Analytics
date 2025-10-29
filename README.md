@@ -1,0 +1,2 @@
+# Integrated-IoT-Power-BI-Framework-for-Real-Time-Air-Quality-Monitoring-and-Advanced-Analytics
+Developed an IoT–Power BI–integrated system for real-time air quality monitoring using Arduino and multi-gas/dust sensors. Leveraged Power BI dashboards for dynamic visualization, trend analysis, and pollutant correlation insights, enabling early alerts and data-driven environmental decisions for smart city applications.
